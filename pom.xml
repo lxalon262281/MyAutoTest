@@ -17,7 +17,7 @@
 
         <!--外部传参，默认跑testSuite_YG.xml-->
         <xmlFileName>testSuite_YG.xml</xmlFileName>
-        <spring.version>4.2.3.RELEASE</spring.version>
+        <spring.version>5.3.18</spring.version>
     </properties>
 
     <dependencies>
